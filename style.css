@@ -92,7 +92,7 @@ header ul li:hover {
   /* background-color: red;
   background-image: url(./img/hero.jpg);
   background-size: cover; */
-  background: red url(./img/hero.jpg) no-repeat center;
+  background: red url(./img/img/hero.jpg) no-repeat center;
   background-size: cover;
 
   display: flex;
