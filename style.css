@@ -259,7 +259,7 @@ article .title {
   .side-links {
     width: 100%;
     display: flex;
-    justity-content: space-between;
+    justify-content: space-between;
   }
 
   .country,
